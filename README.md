@@ -23,7 +23,7 @@ RegisterNumber: 212221240002
 ```
 
 ```python
-import pandas as pd
+import pandas as pd 
 data = pd.read_csv("Employee.csv")
 data.head()
 data.info()
